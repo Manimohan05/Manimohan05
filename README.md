@@ -1,4 +1,4 @@
-# Welcome Techies to Mani's Era!👋
+# Welcome Techies to Mani's page!👋
 
 ### 🚀 About Me
 
