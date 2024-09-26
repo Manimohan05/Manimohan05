@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-🎓 I am Manimohan who have been pursuing B.Sc.(Hons) in Electronic and Telecommunication Engineering at [University of Moratuwa in Sri Lanka](https://uom.lk/). <br> I’m a highly motivated, confident, and self-directed second-year undergraduate. I have interests in Web &
+🎓 I am Manimohan who have been pursuing B.Sc.(Hons) in Electronic and Telecommunication Engineering at [University of Moratuwa in Sri Lanka](https://uom.lk/). <br> I’m a highly motivated, confident, and self-directed final-year undergraduate. I have interests in Web &
 App Development, UI/UX Designs , Electronics & telecommunications, Robotics & Automation, Machine
 Learning & Deep Learning, and Data science. I’m a flexible person, who is eager to find a job, where I can
 gain and enhance my knowledge and skills while being productive and giving my best to the employer. I
