@@ -161,6 +161,6 @@ believe in teamwork and I always consider the best outcome for the team. I'm hig
 
 [![Manimohan05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan05&show_icons=true&theme=radical)](https://github.com/Manimohan05/github-readme-stats)
 
-[![@Manimohan14's Holopin board](https://holopin.me/Manimohan14)](https://www.holopin.io/@Manimohan05)
+[![@Manimohan05's Holopin board](https://holopin.me/Manimohan05)](https://www.holopin.io/@Manimohan05)
 
 
