@@ -157,7 +157,7 @@ believe in teamwork and I always consider the best outcome for the team. I'm hig
     <img src="https://komarev.com/ghpvc/?username=Manimohan05" alt="profile views">
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manimohan14&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manimohan05&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Manimohan05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan05&show_icons=true&theme=radical)](https://github.com/Manimohan05/github-readme-stats)
 
