@@ -149,22 +149,18 @@ believe in teamwork and I always consider the best outcome for the team. I'm hig
 
 
 
-<!-- ## 📝 Top Blog Posts -->
-
 ## 📈 Mani's Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manimohan14&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Manimohan05&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Manimohan14&show_icons=true&hide_border=true" alt="Manimohan14's GitHub Stats"> -->
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=Manimohan14">
+    <img src="https://komarev.com/ghpvc/?username=Manimohan05" alt="profile views">
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manimohan14&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Manimohan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan14&show_icons=true&theme=radical)
-[![@Manimohan14's Holopin board](https://holopin.me/Manimohan14)](https://www.holopin.io/@Manimohan14)
-<!-- ![Manimohan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan14)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manimohan14)](https://github.com/Manimohan14/github-readme-stats) -->
+
+[![Manimohan14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan05&show_icons=true&theme=radical)](https://github.com/Manimohan05/github-readme-stats)
+
+[![@Manimohan14's Holopin board](https://holopin.me/Manimohan14)](https://www.holopin.io/@Manimohan05)
 
 
