@@ -1,136 +1,104 @@
-# Welcome Techies to Mani's page!👋
+## 👋 Hi there! | Engineering Circuits & Intelligence into Reality 🚀
 
-### 🚀 About Me
+<p>
+  <a href="mailto:manimohan517@gmail.com">
+    <img height="20" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tmanimohan/">
+    <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Manimohan05">
+    <img height="20" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-🎓 I am Manimohan who have been pursuing B.Sc.(Hons) in Electronic and Telecommunication Engineering at [University of Moratuwa in Sri Lanka](https://uom.lk/). <br> I’m a highly motivated, confident, and self-directed final-year undergraduate. I have interests in Web &
-App Development, UI/UX Designs , Electronics & telecommunications, Robotics & Automation, Machine
-Learning & Deep Learning, and Data science. I’m a flexible person, who is eager to find a job, where I can
-gain and enhance my knowledge and skills while being productive and giving my best to the employer. I
-believe in teamwork and I always consider the best outcome for the team. I'm highly interested in Full Stack Development & Data,Business Analysis. I am very enthusiastic to learn more in Python, JavaScript & SQL
+Hi, I’m **Manimohan Thiriloganathan** – a final-year **Electronics & Telecommunication Engineering** undergraduate at the University of Moratuwa.  
 
-## 🔗 Explore more about Mani 🚀
+🎓 **Research Interests:**  
+- Analog & Digital **Integrated Circuit Design (ICD)**  
+- **VLSI** Systems & Design Methodologies  
+- **Machine Learning (ML) & AI for Hardware Systems**  
 
+⚡ I specialize in **PLL/VCO design, FPGA-based computing, and ML-driven system optimization**.  
+I am passionate about **collaborative research, open-source IC projects, and academic innovation**.  
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Manimohan05)
-[![trailblazer](https://img.shields.io/badge/Trailblazer-000000?style=for-the-badge&logo=Trailblazer&logoColor=white)](https://trailblazer.me/id/manimohan)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manimohan517)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manimohan517@gmail.com)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tmanimohan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiriloganathan.manimohan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ManiMoh45578854)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manimohan_04)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tmanimohan)
-### Working as a Freelancer in
+---
 
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/manimohan517)
+### 🎯 Current Focus Areas
+- 🧠 **Analog/Mixed-Signal IC Design:** PLLs, VCOs, OTAs, Linear Power Supplies  
+- 📶 **VLSI & FPGA:** RTL design, FPGA acceleration (Zynq Ultrascale+, FINN, Vivado, Vitis)  
+- 🤖 **AI & ML:** YOLO-based object detection, surrogate modeling, biomedical AI  
+- 🔬 **EDA & Simulation Tools:** Cadence, LTspice, Ngspice, KLayout, Xschem  
 
-## 🛠️ Skills -->
+---
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-323330?style=for-the-badge&logo=matlab&logoColor=F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+### 🤝 Collaboration Goals
+- Open to **academic research collaborations** in IC design & ML for hardware  
+- Seeking opportunities in **Analog/Mixed-Signal IC Design, VLSI, and AI-Hardware integration**  
 
-### Machine Learning & Deep Learning
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
- ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## 🛠️ Technical Skills
 
+### 📐 Circuit Design & Simulation
+<p>
+  <img src="https://img.shields.io/badge/Cadence-000000?style=for-the-badge&logo=Cadence&logoColor=red"/>
+  <img src="https://img.shields.io/badge/LTspice-DC322F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ngspice-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KLayout-0055FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Altium-000000?style=for-the-badge&logo=altiumdesigner&logoColor=gold"/>
+</p>
 
-### Frameworks & Library
+### ⚙️ FPGA & Digital
+<p>
+  <img src="https://img.shields.io/badge/Vivado-CC0000?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitis-800080?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+</p>
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
- ### Hosting/SaaS
- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
- !
+### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-### CI/CD VCS
- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+</p>
 
+---
 
-### Designing Tools
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Solidworks](https://img.shields.io/badge/Solidworks-00C4CC?style=for-the-badge&logo=solidworks&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-### Blogging Sites
+## 🔬 Featured Projects
+- **Fractional-N PLL with LC-VCO (SKY130)** → [Repo](https://github.com/Manimohan05/Analog_IC_Design.git)  
+- **PLL Clock Multiplier (IHP SG13G2)** → [Repo](https://github.com/SkillSurf/cmos-pll-ihp-sg13g2.git)  
+- **FPGA-based License Plate Recognition** → [Repo](https://github.com/avishkaherath/TO_July2025)  
+- **YOLOv8 – Densely Packed Product Detection** → [Repo](https://github.com/Manimohan05/Project--Densely-packed-product-detection.git)  
+- **ECG Heart Monitor** → [Repo](https://github.com/Manimohan05/ECG-Heart-Monitor-Lab-project.git)  
 
-[![Medium](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://medium.com/@manimohan517)
+---
 
+## 🏆 Achievements
+- Dean’s List (Sem 04, 06, 07, 08) 🎓  
+- Winner – Huawei ICT Competition 2022-23  
+- IEEE Xtreme 16.0 & 18.0 Finalist ⚡  
+- Varsity Battles Winner – Colombo Stock Exchange (2024)  
 
- ### Others
- 
- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
- ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
- ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
- ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) 
+---
 
-### Education & Learning Platforms
+## 📊 GitHub Analytics
 
-![coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manimohan05&layout=compact&theme=blueberry&hide_border=false" height="180" />
+</p>
 
-
- 
-### Experienced IDE
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-## 🖥️ Workspace Setup
-
-![i7-9th-gen](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)\
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Manimohan05/output/github-contribution-grid-snake.svg) -->
-
-
-
-
-
-## 📈 Mani's Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manimohan05&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=Manimohan05" alt="profile views">
-</div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manimohan05&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Manimohan05's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manimohan05&show_icons=true&theme=radical)](https://github.com/Manimohan05/github-readme-stats)
-
-[![@Manimohan05's Holopin board](https://holopin.me/Manimohan05)](https://www.holopin.io/@Manimohan05)
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manimohan05&theme=blueberry&no-frame=false&row=1&column=6" height="150" />
+</p>
